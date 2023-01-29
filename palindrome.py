@@ -2,5 +2,4 @@ text = input()
 if text[:] == text[::-1]:
   print('Palindrome')
 else:
-  print('NO')
-  
+  print('not really')
